@@ -1,0 +1,61 @@
+---
+title: "Authentic Pad Thai Recipe"
+author: "Noon - Chanokchut Yasiasat"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You've probably had pad thai in your local restaurant, but what you had may not be anything like the authentic version. First, it should not have ketchup or any tomato product in it. Second, it should not be syrupy sweet. And finally, it shouldn't be just a heavy, soggy clump of noodles with bits of green onions.
+
+# Ingredients for Pad Thai
+Here's everything you'll need, with more details on a few less common ingredients and how to substitute them.
+
+**FOR THE SAUCE:**\
+  - Tamarind paste\
+  - Palm sugar\
+  - Fish sauce\
+  
+**FOR THE PAD THAI:**\
+  - Shallots\
+  - Garlic\
+  - Dried shrimp\
+  - Pressed tofu\
+  - Sweet preserved radish\
+  - Chili flakes\
+  - Eggs\
+  - Roasted peanuts\
+  - Rice noodles\
+  - Bean sprouts\
+  - Garlic chives\
+  - Lime wedge
+
+# How to Make Pad Thai
+1. To make the sauce, melt and caramelize the palm sugar.
+2. Add water to stop the caramelization.
+3. Add fish sauce and tamarind and bring to a simmer.
+4. Off heat and let it sit until the sugar is completely dissolved.
+5. Cook off the shrimp (or any other protein you're using). Remove from pan.
+6. Saute shallots, garlic, tofu, dried shrimp, preserved radish, and chili flakes.
+7. Add the soaked noodles.
+8. Add the sauce.
+9. Toss until the noodles have absorbed all the sauce.
+10. Push the noodles to one side and add the eggs to the space you've made and break the yolks.
+11. Put the noodles on top of the eggs and let it cook for 15-30 seconds.
+12. Flip and toss to mix.
+13. Add the peanuts, bean sprouts and garlic chives.
+14. Turn off the heat and toss until the beansprouts are incorporated and slightly wilted.
+15. Plate and top with more peanuts and shrimp.
+16. Don't forget to add fresh lime before eating!
+
+![Traditional pad thai shrimp with all of the classic garnishes.](authentic-pad-thai.jpg)
+
+# Credit
+https://hot-thai-kitchen.com/best-pad-thai/
+
+
